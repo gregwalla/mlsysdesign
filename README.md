@@ -1,4 +1,4 @@
-cs329
+cs329s
 ==============================
 
 ml model for covid data
